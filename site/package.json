@@ -1,5 +1,5 @@
 {
-  "name": "@micromodal/site",
+  "name": "@eli/micromodal-site",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ghosh/micromodal.git"
+    "url": "git+https://github.com/eligrey/Micromodal.git"
   },
   "author": "",
   "license": "ISC",
