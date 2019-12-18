@@ -1,6 +1,6 @@
 {
-  "name": "micromodal",
-  "version": "0.4.3",
+  "name": "@eligrey/micromodal",
+  "version": "0.4.4",
   "description": "Tiny javascript library for creating accessible modal dialogs",
   "main": "dist/micromodal.js",
   "cdn": "dist/micromodal.min.js",
@@ -11,9 +11,12 @@
   "jsdelivr": "dist/micromodal.min.js",
   "author": "Indrashish Ghosh",
   "license": "ISC",
-  "repository": "https://github.com/ghosh/micromodal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eligrey/Micromodal.git"
+  },
   "bugs": {
-    "url": "https://github.com/ghosh/micromodal/issues"
+    "url": "https://github.com/eligrey/Micromodal/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -36,5 +39,7 @@
     "rollup-plugin-filesize": "^6.1.1",
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-terser": "^5.1.1"
-  }
+  },
+  "homepage": "https://github.com/eligrey/Micromodal#readme",
+  "dependencies": {}
 }
